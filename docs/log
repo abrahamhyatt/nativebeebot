@@ -163,3 +163,4 @@ May 13 06:00:01 raspberrypi CRON[11365]: (root) CMD (sh /home/pi/build/nativebee
 May 13 07:00:01 raspberrypi CRON[11415]: (root) CMD (sh /home/pi/build/nativebeebot/nativebeebot.sh # JOB_ID_3)
 May 13 08:00:01 raspberrypi CRON[11656]: (root) CMD (sh /home/pi/build/nativebeebot/nativebeebot.sh # JOB_ID_3)
 May 13 09:00:02 raspberrypi CRON[11706]: (root) CMD (sh /home/pi/build/nativebeebot/nativebeebot.sh # JOB_ID_3)
+May 13 10:00:01 raspberrypi CRON[11756]: (root) CMD (sh /home/pi/build/nativebeebot/nativebeebot.sh # JOB_ID_3)
